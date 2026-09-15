@@ -11,7 +11,7 @@ SpeedyWeather = "9e226e20-d153-4fed-8a5b-493def4f21a9"
 TrenberthCallbacks = "23a9ace5-4859-46fa-8f5a-e0c681e11c54"
 
 [compat]
-Dates = "1.11.0"
+Dates = "1.11.0, 1.10"
 GLMakie = "0.13.14"
 Observables = "0.5.5"
 SpeedyWeather = "0.22.1"
