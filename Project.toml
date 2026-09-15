@@ -1,9 +1,21 @@
 name = "TrenberthDiagram"
 uuid = "a3bfdfcc-9561-43d2-ab0f-6df68171d2b0"
-authors = ["Hannah-Jane Wood", "Lucy Harlow", "Ofer Cohen"]
 version = "1.0.0-DEV"
+authors = ["Hannah-Jane Wood", "Lucy Harlow", "Ofer Cohen"]
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Observables = "510215fc-4207-5dde-b226-833fc4488ee2"
+SpeedyWeather = "9e226e20-d153-4fed-8a5b-493def4f21a9"
+TrenberthCallbacks = "23a9ace5-4859-46fa-8f5a-e0c681e11c54"
 
 [compat]
+Dates = "1.11.0"
+GLMakie = "0.13.14"
+Observables = "0.5.5"
+SpeedyWeather = "0.22.1"
+TrenberthCallbacks = "1.0.0"
 julia = "1.10.10"
 
 [extras]
