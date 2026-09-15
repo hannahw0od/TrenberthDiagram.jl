@@ -122,5 +122,5 @@ display(fig)
 - **TrenberthCallbacks.jl** — collects the diagnostics required to construct the Trenberth energy budget.
 - **SpeedyWeather.jl** — provides the atmospheric model and simulation output used by the diagram.
 
-
+Made by HANNAH-JANE WOOD, LUCY HARLOW, AND OFER COHEN
 [![Build Status](https://github.com/hannahw0od/TrenberthDiagram.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/hannahw0od/TrenberthDiagram.jl/actions/workflows/CI.yml?query=branch%3Amain)
