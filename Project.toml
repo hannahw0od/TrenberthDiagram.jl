@@ -14,7 +14,7 @@ TrenberthCallbacks = "23a9ace5-4859-46fa-8f5a-e0c681e11c54"
 Dates = "1.11.0"
 GLMakie = "0.13.14"
 Observables = "0.5.5"
-SpeedyWeather = "0.22.1"
+SpeedyWeather = "0.22.1, 0.23"
 TrenberthCallbacks = "1.0.0"
 julia = "1.10.10"
 
